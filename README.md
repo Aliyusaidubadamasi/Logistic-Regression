@@ -1,26 +1,18 @@
-# Logistic Regression - Airline Customer Satisfaction Prediction
+# Logistic Regression - Airline Satisfaction
 
-## Project Overview
-This project analyzes airline passenger survey data using Logistic Regression to predict customer satisfaction and identify key drivers.
-
-## Dataset Description
-- **Source**: Airline passenger satisfaction survey
-- **Rows**: 129,880 passengers
-- **Features**: 22 features including service ratings, flight details, and demographics
-- **Target**: satisfaction (satisfied/dissatisfied)
-
-## Key Findings
-- **Model Accuracy**: 84.5%
+## Results
+- **Accuracy**: 84.5%
+- **Precision**: 88.0%
+- **Recall**: 82.0%
+- **F1-Score**: 84.9%
 - **ROC-AUC**: 0.928
-- **Best Predictors**: Inflight wifi service, Ease of Online booking, Seat comfort
-- **Strongest Negative Driver**: Total Delay
 
-## Setup Instructions
+## Top Drivers
+1. Inflight wifi service
+2. Ease of Online booking
+3. Seat comfort
+4. Total Delay (negative)
 
-### Prerequisites
-- Python 3.7+
-- Jupyter Notebook or Google Colab
-
-### Install Required Libraries
+## Setup
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
