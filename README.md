@@ -6,7 +6,7 @@ This project analyzes airline passenger survey data using Logistic Regression to
 ## Dataset Description
 - **Source**: Airline passenger satisfaction survey
 - **Rows**: 129,880 passengers
-- **Features**: 25 features including service ratings, flight details, and passenger demographics
+- **Features**: 22 features including service ratings, flight details, and passenger demographics
 - **Target**: satisfaction (satisfied/dissatisfied)
 
 ## Key Findings
