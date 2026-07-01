@@ -1,12 +1,12 @@
 # Logistic Regression - Airline Customer Satisfaction Prediction
 
 ## Project Overview
-This project analyzes airline passenger survey data using Logistic Regression to predict customer satisfaction and identify key drivers of passenger experience.
+This project analyzes airline passenger survey data using Logistic Regression to predict customer satisfaction and identify key drivers.
 
 ## Dataset Description
 - **Source**: Airline passenger satisfaction survey
 - **Rows**: 129,880 passengers
-- **Features**: 22 features including service ratings, flight details, and passenger demographics
+- **Features**: 22 features including service ratings, flight details, and demographics
 - **Target**: satisfaction (satisfied/dissatisfied)
 
 ## Key Findings
